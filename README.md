@@ -38,11 +38,11 @@ Execute the program
 	<tr>
 	    <th colspan="2" align="center">Days</th>
 	    <th colspan="2" align="center">08:00 - 09:00</th>
-            <th colspan="2" align="center">09:00 - 10:00</th>
+        <th colspan="2" align="center">09:00 - 10:00</th>
 	    <th colspan="2" align="center">10:00 - 11:00</th>
-            <th colspan="2" align="center">11:00 - 12:00</th>
+        <th colspan="2" align="center">11:00 - 12:00</th>
 	    <th colspan="2" align="center">12:00 - 13:00</th>
-            <th colspan="2" align="center">13:00 - 14:00</th>
+        <th colspan="2" align="center">13:00 - 14:00</th>
 	    <th colspan="2" align="center">14:00 - 15:00</th>
 	</tr>
 
@@ -105,9 +105,10 @@ Execute the program
 ```
 ## OUTPUT:
 ### HTML CODE:
-![HTMLCODE](./code1.png)
-![HTMLCODE](./code2.png)
-![HTMLCODE](./code3.png)
+![HTMLCODE](./code01.png)
+![HTMLCODE](./code02.png)
+![HTMLCODE](./code03.png)
+
 
 ### CLIENT SIDE OUTPUT:
 ![CLIENTSIDEOUTPUT](./output.png)

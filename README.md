@@ -23,7 +23,7 @@ Execute the program
 
 <body>
 <img src="logo.png" width="700" height="100" alt="timetable">
-<table border="2" cellspacing="1" bordercolor="Maroon" bgcolor="LightCyan">
+<table border="2" cellspacing="1"  bgcolor="Thistle">
 	<tr>
 	    <th colspan="16">TIMETABLE</th>
 	</tr>
@@ -105,13 +105,19 @@ Execute the program
 ```
 ## OUTPUT:
 ### HTML CODE:
-![HTMLCODE](./code01.png)
-![HTMLCODE](./code02.png)
-![HTMLCODE](./code03.png)
+![HTMLCODE](./code1.png)
+![HTMLCODE](./code2.png)
+![HTMLCODE](./code3.png)
 
 
 ### CLIENT SIDE OUTPUT:
 ![CLIENTSIDEOUTPUT](./output.png)
+
+### HTML VALIDATION REPORT:
+![HTMLVALIDATIONREPORT](./validation1.png)
+![HTMLVALIDATIONREPORT](./validation2.png)
+![HTMLVALIDATIONREPORT](./validation3.png)
+![HTMLVALIDATIONREPORT](./validation4.png)
 
 
 

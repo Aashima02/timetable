@@ -105,13 +105,15 @@ Execute the program
 ```
 ## OUTPUT:
 ### HTML CODE:
-![HTMLCODE](./code1.png)
-![HTMLCODE](./code2.png)
-![HTMLCODE](./code3.png)
+![HTMLCODE](./code1.png)![code1](https://user-images.githubusercontent.com/93427086/144068532-e08b89a3-dfbb-40a7-9444-58c4761e12d8.png)
+![HTMLCODE](./code2.png)![code2](https://user-images.githubusercontent.com/93427086/144068581-6bc1564f-f7f3-4c03-a685-a8f9d79c9e76.png)
+![HTMLCODE](./code3.png)![code3](https://user-images.githubusercontent.com/93427086/144068636-bce4e484-e043-4032-be3e-3f2f224649c2.png)
+
 
 
 ### CLIENT SIDE OUTPUT:
-![CLIENTSIDEOUTPUT](./output.png)
+![CLIENTSIDEOUTPUT](./output.png)![output](https://user-images.githubusercontent.com/93427086/144068671-bd854c81-9d81-4a07-9ba3-23861aae16f3.png)
+
 
 ### HTML VALIDATION REPORT:
 ![HTMLVALIDATIONREPORT](./validation1.png)

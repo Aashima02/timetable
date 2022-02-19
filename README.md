@@ -118,8 +118,6 @@ Execute the program
 ![HTMLVALIDATIONREPORT](./validation3.png)
 ![HTMLVALIDATIONREPORT](./validation4.png)
 
-
-
 ## RESULT:
 
 Thus, a html webpage is created to display the timetable.

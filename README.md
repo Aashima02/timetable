@@ -104,11 +104,6 @@ Execute the program
 </html>
 ```
 ## OUTPUT:
-### HTML CODE:
-![HTMLCODE](./code1.png)
-![HTMLCODE](./code2.png)
-![HTMLCODE](./code3.png)
-
 
 ### CLIENT SIDE OUTPUT:
 ![CLIENTSIDEOUTPUT](./output.png)

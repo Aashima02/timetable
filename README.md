@@ -104,13 +104,9 @@ Execute the program
 </html>
 ```
 ## OUTPUT:
-
 ### CLIENT SIDE OUTPUT:
 ![CLIENTSIDEOUTPUT](./output.png)
-
 ### HTML VALIDATION REPORT:
 ![HTMLVALIDATIONREPORT](./validation1.png)
-
 ## RESULT:
-
 Thus, a html webpage is created to display the timetable.

@@ -104,6 +104,10 @@ Execute the program
 </html>
 ```
 ## OUTPUT:
+### SERVER SIDE OUTPUT:
+![HTMLCODE](./code1.png)
+![HTMLCODE](./code2.png)
+![HTMLCODE](./code3.png)
 
 ### CLIENT SIDE OUTPUT:
 ![CLIENTSIDEOUTPUT](./output.png)

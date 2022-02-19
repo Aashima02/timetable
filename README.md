@@ -106,7 +106,9 @@ Execute the program
 ## OUTPUT:
 ### SERVER SIDE OUTPUT:
 ![HTMLCODE](./code1.png)
+
 ![HTMLCODE](./code2.png)
+
 ![HTMLCODE](./code3.png)
 
 ### CLIENT SIDE OUTPUT:
@@ -114,8 +116,11 @@ Execute the program
 
 ### HTML VALIDATION REPORT:
 ![HTMLVALIDATIONREPORT](./validation1.png)
+
 ![HTMLVALIDATIONREPORT](./validation2.png)
+
 ![HTMLVALIDATIONREPORT](./validation3.png)
+
 ![HTMLVALIDATIONREPORT](./validation4.png)
 
 ## RESULT:
